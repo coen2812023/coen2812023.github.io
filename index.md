@@ -3,30 +3,31 @@ title: Home
 layout: home
 ---
 
-Course Description: 
-How does an online retailer decide which product to recommend to you based on your previous purchases? How do bio-scientists decide how many different types of a disease are out there? How do computers rank Web pages in response to a user query? In this course we introduce some of the computational methods currently used to answer these and other similar questions. Topics included are association rules, clustering, data visualization, logistic regression, neural networks, decision trees, ensemble methods, and text mining. 
+Introduction to Data Mining <br />
+Welcome to the Introduction to Data Mining course!
 
-Learning Outcomes 
-Upon successful completion of this course, students will: 
+In this course, you will learn the fundamental concepts and techniques of data mining, and how to apply them to real-world problems. You will also get hands-on experience with popular data mining tools and techniques, including regression, classification, clustering, and more.
 
-Be able to demonstrate an understanding of advanced knowledge of the practice of computer/software engineering, from vision to analysis, design, validation and deployment.
-Be able to tackle complex engineering problems and tasks, using contemporary engineering principles, methodologies and tools.
-Be able to demonstrate leadership and the ability to participate in teamwork in an environment with different disciplines of engineering, science and business.
-Be aware of ethical, economic and environmental implications of their work, as appropriate.
-Be able to advance successfully in the engineering profession and sustain a process of life-long learning in engineering or other professional areas.
-Be able to communicate effectively, in both oral and written forms.
-Course Learning Outcomes (CLO)
-The main focus of this course is on data mining and its applications. More specifically, we will cover a broad range of data mining algorithms and techniques, focusing on how they are used in diverse applications such as predicting future income, detecting and preventing spam, finding genes with similar functions, etc. The lectures will revolve around the fundamental concepts of the areas covered as well as case studies, providing students the opportunity to gain a deep understanding and apply these concepts in real-life scenarios. Multiple in-class and homework assignments required throughout the class will test the students’ ability to effectively harness the power of data mining in different scenarios. Although some data analytics and mining tools will be used for demonstration purposes, mastering specific tools is not the primary objective of the lectures. Instead, the students will be able to gain hands-on experience on such technologies via individual and group-based projects, where they will be expected to perform in-depth analysis using real-world data, and to enhance their professional engineering skills, including teamwork, technical leadership, and effective communication skills (both written and verbal).
+By the end of this course, you will have a solid understanding of the data mining process and be able to confidently apply your skills to a variety of data sets.
 
- 
-Upon successful completion of this course, students will be able to:
+Here is an overview of the topics that we will cover:
 
-Identify the proper techniques and algorithms needed to prepare, preprocess, analyze and mine highly unstructured datasets, such as large text collections.
-Understand advantages and disadvantages of dimensionality reduction as a preprocessing tool for data analysis.
-Identify the correct class of methods that can be used to efficiently build a nearest neighbor graph, given properties of the input data.
-Discuss and apply fundamental data mining concepts and techniques, such as classification, clustering, or frequent pattern mining.
-Gain hands-on experience by performing an extensive analysis using data mining techniques, in individual and group projects.
- 
+- Introduction to data mining and its importance <br />
+- Data exploration and visualization<br />
+- Data preprocessing and cleaning<br />
+- Regression analysis<br />
+- Classification techniques<br />
+- Clustering algorithms<br />
+- Association rule mining<br />
+
+We will also touch on more advanced topics such as ensemble methods and deep learning.<br />
+
+Throughout the course, you will have the opportunity to work on hands-on projects and exercises to apply your knowledge and develop your skills.<br />
+
+We hope you enjoy the course and come away with a strong foundation in data mining!<br />
+
+
+
 
 ----
 
