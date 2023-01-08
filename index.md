@@ -3,20 +3,30 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+Course Description 
+How does an online retailer decide which product to recommend to you based on your previous purchases? How do bio-scientists decide how many different types of a disease are out there? How do computers rank Web pages in response to a user query? In this course we introduce some of the computational methods currently used to answer these and other similar questions. Topics included are association rules, clustering, data visualization, logistic regression, neural networks, decision trees, ensemble methods, and text mining. 
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+Learning Outcomes 
+Upon successful completion of this course, students will: 
 
-More specifically, the created site:
+Be able to demonstrate an understanding of advanced knowledge of the practice of computer/software engineering, from vision to analysis, design, validation and deployment.
+Be able to tackle complex engineering problems and tasks, using contemporary engineering principles, methodologies and tools.
+Be able to demonstrate leadership and the ability to participate in teamwork in an environment with different disciplines of engineering, science and business.
+Be aware of ethical, economic and environmental implications of their work, as appropriate.
+Be able to advance successfully in the engineering profession and sustain a process of life-long learning in engineering or other professional areas.
+Be able to communicate effectively, in both oral and written forms.
+Course Learning Outcomes (CLO)
+The main focus of this course is on data mining and its applications. More specifically, we will cover a broad range of data mining algorithms and techniques, focusing on how they are used in diverse applications such as predicting future income, detecting and preventing spam, finding genes with similar functions, etc. The lectures will revolve around the fundamental concepts of the areas covered as well as case studies, providing students the opportunity to gain a deep understanding and apply these concepts in real-life scenarios. Multiple in-class and homework assignments required throughout the class will test the students’ ability to effectively harness the power of data mining in different scenarios. Although some data analytics and mining tools will be used for demonstration purposes, mastering specific tools is not the primary objective of the lectures. Instead, the students will be able to gain hands-on experience on such technologies via individual and group-based projects, where they will be expected to perform in-depth analysis using real-world data, and to enhance their professional engineering skills, including teamwork, technical leadership, and effective communication skills (both written and verbal).
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+ 
+Upon successful completion of this course, students will be able to:
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, just click "[use this template]"!
+Identify the proper techniques and algorithms needed to prepare, preprocess, analyze and mine highly unstructured datasets, such as large text collections.
+Understand advantages and disadvantages of dimensionality reduction as a preprocessing tool for data analysis.
+Identify the correct class of methods that can be used to efficiently build a nearest neighbor graph, given properties of the input data.
+Discuss and apply fundamental data mining concepts and techniques, such as classification, clustering, or frequent pattern mining.
+Gain hands-on experience by performing an extensive analysis using data mining techniques, in individual and group projects.
+ 
 
 ----
 
