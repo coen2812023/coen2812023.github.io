@@ -2,7 +2,10 @@
 layout: default
 title: Home
 nav_order: 1
+description: "Course Overview"
+permalink: /
 ---
+
 
 <h3>Introduction to Data Mining</h3> 
 Welcome to the Introduction to Data Mining course! <br />
