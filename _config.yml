@@ -1,6 +1,8 @@
 title: COEN 281 Winter 2023
 description: Introduction to Data Mining & Pattern Recognition
-theme: just-the-docs
+# Theme
+# theme: "just-the-docs"
+remote_theme: coen2812023/just-the-docs
 
 url: https://coen2812023.github.io/
 
