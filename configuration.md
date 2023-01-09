@@ -79,15 +79,13 @@ mermaid:
   version: "9.1.3"
 ```
 
-See [the Code documentation]({{ site.baseurl }}{% link docs/ui-components/code.md %}#mermaid-diagram-code-blocks) for more configuration options and information.
 
 ## Aux links
 
 ```yaml
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/just-the-docs/just-the-docs"
+
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
