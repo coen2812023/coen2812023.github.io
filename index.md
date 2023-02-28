@@ -7,8 +7,8 @@ permalink: /
 ---
 
 
-<h3>Introduction to Data Mining</h3> 
-Welcome to the Introduction to Data Mining course! <br />
+<h3>Introduction to Pattern Recognition</h3> 
+Welcome to the Introduction to Pattern Recognition & Data Mining course! <br />
 
 In this course, you will learn the fundamental concepts and techniques of data mining, and how to apply them to real-world problems. You will also get hands-on experience with popular data mining tools and techniques, including regression, classification, clustering, and more.
 
